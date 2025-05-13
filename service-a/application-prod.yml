@@ -1,0 +1,3 @@
+# config-repo/service-a/application-prod.yml
+service:
+ name: test service for Production A
