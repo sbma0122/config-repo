@@ -1,0 +1,3 @@
+# config-repo/service-b/application-dev.yml
+service:
+ name: test service for dev-B
