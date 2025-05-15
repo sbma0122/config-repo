@@ -1,3 +1,5 @@
-# config-repo/service-b/application-prod.yml
-service:
- name: test service for Production B
+ervice:
+ name: "Service A - Production Environment"
+logging:
+ level:
+ root: WARN
